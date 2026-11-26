@@ -6,14 +6,14 @@
 HTML5, CSS3 (SCSS, БЭМ), JavaScript (ES6+), Gulp, Webpack, Git.
 
 ## 🚀 Мои проекты
-Ниже представлены проекты, выполненные в рамках обучения. Все они опубликованы и доступны для просмотра.
+Ниже представлены проекты, выполненные в рамках обучения. Все они опубликованы и доступны для просмотра (от первого к последнему).
 
-1. **[The Great Journey](https://github.com/LioNkek/TheGreatJourney)** — Веб-приложение для путешествий (JS, Webpack).
-2. **[Keksogram](https://github.com/LioNkek/keksogram)** — Социальная сеть для фото (JS, чистая верстка).
-3. **[Travel](https://github.com/LioNkek/Travel)** — Адаптивный сайт для туров (HTML, SCSS, Gulp).
-4. **[Drink2Go](https://github.com/LioNkek/Drink2Go)** — Интернет-магазин напитков (HTML, SCSS, Gulp).
-5. **[Cat Energy](https://github.com/LioNkek/cat-energy)** — Интернет-магазин корма (HTML, SCSS, Gulp).
-6. **[Sedona](https://github.com/LioNkek/Sedonalewk)** — Сайт для туристов (HTML, CSS, JS).
+1. **[Sedona](https://github.com/LioNkek/Sedonalewk)** — Сайт для туристов (HTML, CSS, JS).
+2. **[Cat Energy](https://github.com/LioNkek/cat-energy)** — Интернет-магазин корма (HTML, SCSS, Gulp).
+3. **[Drink2Go](https://github.com/LioNkek/Drink2Go)** — Интернет-магазин напитков (HTML, SCSS, Gulp).
+4. **[Travel](https://github.com/LioNkek/Travel)** — Адаптивный сайт для туров (HTML, SCSS, Gulp).
+5. **[Keksogram](https://github.com/LioNkek/keksogram)** — Социальная сеть для фото (JS, чистая верстка).
+6. **[The Great Journey](https://github.com/LioNkek/TheGreatJourney)** — Веб-приложение для путешествий (JS, Webpack).
 
 ## 📜 Сертификаты
 
